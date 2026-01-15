@@ -276,7 +276,7 @@ footer {
     /* card section */
     .card-parents {
         grid-template-columns: repeat(1, 1fr);
-        margin: 50px 50px;
+        margin: 50px 30px;
     }
 
     .featured-products {
