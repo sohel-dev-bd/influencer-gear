@@ -276,13 +276,15 @@ footer {
     /* card section */
     .card-parents {
         grid-template-columns: repeat(1, 1fr);
-        margin: 50px 60px;
+        margin: 20px 100px;
     }
 
     .featured-products {
         grid-template-columns: repeat(1, 1fr);
         margin: 0px 20px;
-
+    }
+    .featured-products img{
+        width: 100%;
     }
 
     .featured-text {
