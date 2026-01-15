@@ -269,12 +269,13 @@ footer {
     .card-parents {
         grid-template-columns: repeat(1, 1fr);
 
-        margin: 50px 100px;
+        margin: 50px 90px;
     }
 
     .featured-products {
         grid-template-columns: repeat(1, 1fr);
-        margin: 0px 35px;
+        margin: 0px 50px;
+
     }
 
     .featured-text {
