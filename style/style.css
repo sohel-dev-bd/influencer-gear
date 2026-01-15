@@ -201,15 +201,13 @@ li {
 
 /* footer styling */
 footer {
-      background-color: #0a0826;
+    background-color: #0a0826;
     text-align: center;
     margin-top: 100px;
-}
-
-.footer-text {
-  
     padding: 30px;
 }
+
+
 
 .footer-title {
     color: #f8f8f8;
@@ -269,18 +267,19 @@ footer {
     .card-parents {
         grid-template-columns: repeat(1, 1fr);
 
-        margin: 50px 90px;
+        margin: 50px 100px;
     }
 
     .featured-products {
         grid-template-columns: repeat(1, 1fr);
-        margin: 0px 50px;
+        margin: 0px 60px;
 
     }
 
     .featured-text {
         text-align: center;
     }
+
 
 
 
