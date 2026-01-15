@@ -207,8 +207,6 @@ footer {
     padding: 30px;
 }
 
-
-
 .footer-title {
     color: #f8f8f8;
     font-size: 1.5rem;
@@ -236,26 +234,38 @@ footer {
         font-size: 1rem;
     }
 
+
+    /* hero section responsive */
+    .hero-images img {
+        width: 80%;
+
+    }
+
+    .hero-title {
+        margin-top: 10px;
+        width: 100%;
+
+    }
+
     .hero-section {
         flex-direction: column-reverse;
         text-align: center;
-        margin: 0px;
-        gap: 0px;
+        margin: 0px 0px;
     }
 
     .hero-text-title {
-        font-size: 2rem;
+        font-size: 1.8rem;
         text-align: center;
         margin: 0px;
     }
 
-    /* grid */
+    /* responsive brand logos*/
     .brand-logos {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(4, 1fr);
         width: 100%;
         justify-content: center;
         align-items: center;
-        margin: 0px 35px;
+        margin: 0px 0px;
 
     }
 
@@ -266,20 +276,18 @@ footer {
     /* card section */
     .card-parents {
         grid-template-columns: repeat(1, 1fr);
-
-        margin: 50px 100px;
+        margin: 50px 50px;
     }
 
     .featured-products {
         grid-template-columns: repeat(1, 1fr);
-        margin: 0px 60px;
+        margin: 0px 10px;
 
     }
 
     .featured-text {
         text-align: center;
     }
-
 
 
 
