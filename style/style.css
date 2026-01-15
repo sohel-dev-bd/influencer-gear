@@ -251,7 +251,7 @@ footer {
 
     /* grid */
     .brand-logos {
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(3, 1fr);
         width: 100%;
         justify-content: center;
         align-items: center;
